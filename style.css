@@ -1,0 +1,89 @@
+.main{
+    background-color: rgb(245, 250, 245);
+    display: flex;
+}
+.logo{
+    display: flex;
+    margin: 10px;
+}
+.logo img{
+    height: 56px;
+    width: 80px;
+    margin-left: 10px;
+}
+.logo h3{
+    margin-left: 0px;
+    color: rgb(4, 87, 4);
+    
+}
+.fab{
+    margin: 10px;
+    font-size: 24px;
+}
+.social{
+    text-align: center;
+}
+.social a{
+    text-decoration: none;
+    color: black;
+}
+#you:hover{
+    color: red;
+}
+#face:hover{
+    color: blue;
+}
+#twit:hover{
+    color: blue;
+}
+#link:hover{
+    color: blue;
+}
+#insta:hover{
+    color: rgb(231, 38, 231);
+}
+.contact{
+    margin: 10px;
+    margin-left: 40px;
+}
+.contact a{
+text-decoration: none;
+color: black;
+ }
+ .about{
+    margin: 10px;
+    margin-left: 160px;
+}
+.contact , .about p{
+    font-size: 17px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+}
+button:hover{
+    color: rgb(5, 31, 5);
+    cursor: pointer;
+    background-color:rgb(186, 243, 186);
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+button a:hover{
+    color: black;
+}
+.form-control{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.news{
+    margin: 15px;
+    margin-left: 50px;
+}
